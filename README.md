@@ -51,6 +51,7 @@ npm install
 # Lancement du serveur de dev
 cd backend
 npm run dev
+```
 
 
 ## 🧪 Technologies utilisées
