@@ -51,3 +51,26 @@ npm install
 # Lancement du serveur de dev
 cd backend
 npm run dev
+
+
+## 🧪 Technologies utilisées
+- PHP / Symfony
+- HTML / CSS / Bootstrap
+- JavaScript
+- MySQL / Doctrine
+- Git / GitHub
+
+## 👥 Contributeurs
+- **Naël ALAJI**
+- **Martin Frontera**
+- **Swan Beauchêne**
+
+## 🙋‍♂️ Ma contribution personnelle (Naël ALAJI)
+- Participation à la conception de la base de données
+- Développement des composants du front office
+- Intégration du système d’authentification
+- Tests fonctionnels et corrections
+- Collaboration à la rédaction des documents de projet
+
+## 📄 Licence
+Projet académique – non destiné à un usage commercial.
