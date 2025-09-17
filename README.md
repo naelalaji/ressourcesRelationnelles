@@ -31,6 +31,8 @@ L’objectif est de concevoir une application web permettant aux citoyens d’ac
 - 📊 Tableau de bord personnel & statistiques
 - 🛡️ Respect des normes RGPD et d’accessibilité (RGAA)
 
+---
+
 
 
 ## 🚀 Installation
